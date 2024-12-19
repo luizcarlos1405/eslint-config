@@ -55,6 +55,7 @@ module.exports = {
     'no-mixed-operators': 'off',
     'function-paren-newline': 'off',
     'object-curly-newline': 'off',
+    'no-invalid-this': 'error',
     'comma-dangle': [
       'error',
       {
